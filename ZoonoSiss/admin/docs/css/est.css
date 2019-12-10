@@ -1,0 +1,46 @@
+
+body{position: absolute;
+margin:0px;}
+#cont{
+	margin: 200px;
+	width: 1000px;
+	height: 500px;
+}
+.caja{
+	width: 200px;
+	height: 200px;
+}
+
+.avatar {
+    /* cambia estos dos valores para definir el tamaño de tu círculo */
+    height: 100px;
+    width: 100px;
+    /* los siguientes valores son independientes del tamaño del círculo */
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    background-size: 100% auto;
+}
+
+#f1{
+	position: fixed;
+	bottom: 350px;
+	left: 50px;
+}
+#f2{
+	position: fixed;
+	bottom: 350px;
+	left: 250px;
+}
+
+#f3{
+	position: fixed;
+	bottom: 350px;
+	left: 450px;
+}
+
+#f4{
+	position: fixed;
+	bottom: 350px;
+	left: 650px;
+}

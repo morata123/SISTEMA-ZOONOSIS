@@ -1,0 +1,8 @@
+#menu, #formularios{
+	float:left;
+	width: 50%;
+	height: 500px;
+	border: solid red 2px;
+	padding: 5px;
+	
+}
